@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="522" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="505" class="">
     <defs>
         <style/>
     </defs>
@@ -65,7 +65,8 @@
                 </h2>
                 <div class="row fill-width">
                     <section>
-                        <div class="introduction">I like to build programs with JS/TS, Python, Java, etc.</div>
+                        <div class="introduction">
+                        </div>
                     </section>
                 </div>
             </section>
